@@ -1,0 +1,41 @@
+.Article{
+    box-sizing: border-box;
+    width: 100%;
+    padding:60px 5%;
+    font-size: 18px;
+
+}
+.tips1{
+    box-sizing: border-box;
+    height: 60px;
+
+    border-bottom: 1px solid #f06060;
+
+}
+.tips2{
+    box-sizing: border-box;
+    width: 80%;
+    height: 60px;
+
+    float: left;
+    margin-left: 10%;
+    text-align: center;
+    line-height: 60px;
+
+}
+
+.main{
+    width: 100%;
+}
+.main>a{
+    color: #555;
+}
+.main>img{
+max-width:100%;
+    padding: 60px 0;
+}
+.bikan{
+    padding: 60px 7%;
+    font-size: 16px;
+
+}
